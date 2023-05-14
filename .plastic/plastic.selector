@@ -1,0 +1,3 @@
+rep "MOBA@Shinka_Labs@cloud"
+  path "/"
+    smartbranch "/main"
